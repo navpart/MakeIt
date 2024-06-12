@@ -1,0 +1,1 @@
+the purpose of this project is to extends Item record with introduction of some table objects as tablerelationship for some fields. it is developed for automobile servicing firm to manage vehicle spare parts and Vehicle models. 
